@@ -1,0 +1,1 @@
+Since the smart contract doesn't allow any EOA to directly change the owner, we use the help of smart contract to change it.

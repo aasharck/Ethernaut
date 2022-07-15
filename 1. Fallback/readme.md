@@ -1,0 +1,1 @@
+Just send an eth transaction to the contract using contract.sendTransaction({to: value:})

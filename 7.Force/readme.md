@@ -1,0 +1,1 @@
+By creating a contract and sending ether to it. Then calling the selfdestruct function on the target contract -> You will be able to force send the ether to contract
