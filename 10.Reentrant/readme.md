@@ -1,0 +1,2 @@
+Reentrant attacks can be done by calling a function over and over again(generally a withdraw function), so that you can drain the funds.
+To do that we just need to add an attack function which call the function from the contract over and over. But we can't do it manually - so we place it inside the receive function so that whenever we recevive some ether the function gets called again and we drain the contract.
