@@ -1,0 +1,1 @@
+Use ERC20 functions - approve and transferFrom to transfer all the tokens from my account to some other account
